@@ -23,7 +23,7 @@ This is my completed component.
 ### Links
 
 - Solution URL: [https://github.com/ajm24027/frontendmentor-qr-code](https://github.com/ajm24027/frontendmentor-qr-code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://medina-qr-code-component.netlify.app/](https://medina-qr-code-component.netlify.app/)
 
 ## My process
 
